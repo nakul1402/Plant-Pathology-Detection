@@ -13,3 +13,5 @@ Dataset Link- https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7/ove
 Deployment Video Link- https://youtu.be/wxUcHo-UmhY
 
 Link to Blog- https://medium.com/@nakul90411/plant-pathology-detection-a-self-case-stuy-1b421a8fc6dc
+
+Connect on LinkedIn- https://www.linkedin.com/in/nakulgirinitr/
