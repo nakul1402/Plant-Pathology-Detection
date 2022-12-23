@@ -4,3 +4,4 @@ Misdiagnosis of the many diseases impacting agricultural crops can lead to misus
 Current disease diagnosis based on human scouting is time-consuming and expensive, and although computer-vision based models have the promise to increase efficiency, the great variance in symptoms due to age of infected tissues, genetic variations, and light conditions within trees decreases the accuracy of detection.
 We hereby come up with a Deep Learning model that solves the given problem.
 Dataset Link- https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7/overview/description
+Deployment Video Link- https://youtu.be/wxUcHo-UmhY
